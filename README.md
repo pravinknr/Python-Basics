@@ -30,8 +30,11 @@ After the Installation, Open **Anaconda Navigator**. You will see Different Tool
 Click on the **_Launch_** Button Under **Spyder** or **Jupyter Notebook** to Use it. I would Recommend to use the **Jupyter Notebook** for Beginners as it's Easy and Simple to use.
 
 If you Launch **Spyder**, You will be able to see the GUI similar to Rstudio(Those who are Familiar with rstudio.). The GUI is Divided into 3 Sections:
+
 *1. The Left part Consists of the Editor.*
+
 *2. The Right Part is Divided into Top and Bottom Section. The Top Section Consists of the Variable Explorer and File Explorer.*
+
 *3. The Right Bottom Part Consists of the Ipython Console and History Log.*
 
 The Extension for Saving Spyder file is **_".py"_**
