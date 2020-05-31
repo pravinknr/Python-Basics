@@ -14,29 +14,29 @@
 
 ### Download Anaconda Navigator
 
-In order to perform These Codes, You need to Download and Install **Anaconda Navigator**.
+In order to perform These Codes, You need to *Download* and *Install* **Anaconda Navigator**.
 
 #### Available For:
-1. Windows
-2. MacOS
-3. ubuntu
+1. **Windows**
+2. **MacOS**
+3. **ubuntu**
 
-Download and Install the **_Python 3.7_** Version.
+*Download* and *Install* the **_Python 3.7_** Version.
 
 [Click Here](https://www.anaconda.com/products/individual) to re-direct to the Download Page.
 
-After the Installation, Open Anaconda Navigator. You will see Different Tools Offered by Anaconda Navigator. 
+After the Installation, Open **Anaconda Navigator**. You will see Different Tools Offered by **Anaconda Navigator**. 
 
-Click on the Launch Button Under Spyder or Jupyter Notebook to Use it. I would Recommend to use the Jupyter Notebook for Beginners as it's Easy and Simple to use.
+Click on the **_Launch_** Button Under **Spyder** or **Jupyter Notebook** to Use it. I would Recommend to use the **Jupyter Notebook** for Beginners as it's Easy and Simple to use.
 
-If you Launch Spyder, You will be able to see the GUI similar to Rstudio(Those who are Familiar with rstudio.). The GUI is Divided into 3 Sections:
-1. The Left part Consists of the Editor.
-2. The Right Part is Divided into Top and Bottom Section. The Top Section Consists of the Variable Explorer and File Explorer.
-3. The Right Bottom Part Consists of the Ipython Console and History Log.
+If you Launch **Spyder**, You will be able to see the GUI similar to Rstudio(Those who are Familiar with rstudio.). The GUI is Divided into 3 Sections:
+*1. The Left part Consists of the Editor.*
+*2. The Right Part is Divided into Top and Bottom Section. The Top Section Consists of the Variable Explorer and File Explorer.*
+*3. The Right Bottom Part Consists of the Ipython Console and History Log.*
 
-The Extension for Saving Spyder file is *".py"*
+The Extension for Saving Spyder file is **_".py"_**
 
-If you Click on Launch Jupyter Notebook, a Web Browser will be Opened and the Localhost with a port Number Opens. Jupyter Notebooks Runs on the Localhost Server. You can See all the Files that are Present in the Localhost server. On the Right side Top you will See a DropDown Button "New", Click it and select Python 3. The Extension used to save Python Notebook is *".ipynb"*
+If you Click on **_Launch_** **Jupyter Notebook**, a Web Browser will be Opened displaying the Localhost page with a port number. **Jupyter Notebooks** Runs on the Localhost Server. You can See all the Files that are Present in the Localhost server. On the Right side Top you will See a DropDown Button **_"New"_**, Click it and select **Python 3**. The Extension used to save Python Notebook is **_".ipynb"_**
 
 Now the Python Notebook will Open and you can start your Coding part.
 
