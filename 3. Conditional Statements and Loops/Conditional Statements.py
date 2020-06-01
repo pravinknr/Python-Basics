@@ -2,7 +2,7 @@
 # 1. IF Condition (for 1 condition)
 # 2. ELSE condtion (for 2 conditions)
 # 3. IF ELIF ELSE condition (for more than 2 conditions)
-#Loops #FOR Loops #WHILE Loops
+
 
 a = 500
 b = 300
@@ -35,7 +35,7 @@ else:
     print("Both are equal")
     
 #Nested IF Conditions
-#Writing IF Condition inside an IF Condition
+#Writing IF Condition inside anIF Condition
     
 if a > 10:
     print("a is greater than b")
