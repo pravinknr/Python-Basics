@@ -49,35 +49,35 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 #### 1. String and Datatype Functions
 
-| No. | Name | Spyder | Jupyter Notebook|
-| --- | --- | --- | --- |
-| 1. | String and Datatype | [Datatypes.py](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.py) | [Datatypes.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.ipynb) |
+| Name | Spyder | Jupyter Notebook|
+| --- | --- | --- |
+| String and Datatype | [Datatypes.py](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.py) | [Datatypes.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.ipynb) |
 
 ***
 
 #### 2. Operators
 
-| No. | Name | Spyder | Jupyter Notebook|
-| --- | --- | --- | --- |
-| 1. | Operators | [Operators.py](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.py) | [Operators.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.ipynb) |
+| Name | Spyder | Jupyter Notebook|
+| --- | --- | --- |
+| Operators | [Operators.py](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.py) | [Operators.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.ipynb) |
 
 ***
 
 #### 3. Conditional Statements and Loops
 
-| No. | Name | Spyder | Jupyter Notebook|
-| --- | --- | --- | --- |
-| 1. | Conditional Statements | [Conditional Statements.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) | [Conditional Statements.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) |
-| 2. | Loop | [Loop.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loop.py) | [Loops.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loops.ipynb) |
+| Name | Spyder | Jupyter Notebook|
+| --- | --- | --- |
+| Conditional Statements | [Conditional Statements.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) | [Conditional Statements.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) |
+| Loop | [Loop.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loop.py) | [Loops.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loops.ipynb) |
 
 
 ***
 
 #### 4. User Defined Functions
 
-| No. | Name | Spyder | Jupyter Notebook|
-| --- | --- | --- | --- |
-| 1. | Functions | [Functions.py](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.py) | [Functions.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.ipynb) |
+| Name | Spyder | Jupyter Notebook|
+| --- | --- | --- |
+| Functions | [Functions.py](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.py) | [Functions.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.ipynb) |
 
 ***
 
