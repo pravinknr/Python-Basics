@@ -59,7 +59,7 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | No. | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- | --- |
-| 1. | Operators | [Operators.py](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.py) | []() |
+| 1. | Operators | [Operators.py](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.py) | [Operators.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.ipynb) |
 
 ***
 
@@ -67,7 +67,9 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | No. | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- | --- |
-| 1. | 
+| 1. | Conditional Statements | [Conditional Statements.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) | [Conditional Statements.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) |
+| 2. | Loop | [Loop.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loop.py) | [Loops.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loops.ipynb) |
+
 
 ***
 
@@ -75,7 +77,7 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | No. | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- | --- |
-| 1. | 
+| 1. | Functions | [Functions.py](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.py) | [Functions.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.ipynb) |
 
 ***
 
