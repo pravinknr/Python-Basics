@@ -22,7 +22,7 @@ if a > b:
 else:
     print("b is greater than a") 
     
-#IF ELIF ElSE Condition
+#IF ELIF ELSE Condition
 # Here lets take the input from the user
 a = input("Enter Number 1  ")
 b = input("Enter Number 2  ")
@@ -35,7 +35,7 @@ else:
     print("Both are equal")
     
 #Nested IF Conditions
-#Writing IF Condition inside anIF Condition
+#Writing IF Condition inside an IF Condition
     
 if a > 10:
     print("a is greater than b")
