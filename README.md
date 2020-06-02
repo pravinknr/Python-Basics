@@ -91,7 +91,7 @@ You Might Data for Visualization. I have Used *[Cars.csv](https://github.com/pra
 | --- | --- |
 | Numpy | [Numpy.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/1.%20Numpy/Numpy.ipynb) |
 
-##### B. Pandas - DataFrame and Data Manipulation functions
+##### B. Pandas - Data Manipulation and Analysis
 
 | Name | Jupyter Notebook |
 | --- | --- |
