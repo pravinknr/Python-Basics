@@ -81,4 +81,28 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 ***
 
+#### 5. Libraries
+
+You Might Data for Visualization. I have Used *[Cars.csv]()* and *[mba.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/mba.csv)*.
+
+##### A. Numpy - Basic Numeric functions
+
+| Name | Jupyter Notebook |
+| --- | --- |
+| Numpy | [Numpy.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/1.%20Numpy/Numpy.ipynb) |
+
+##### B. Pandas - DataFrame and Data Manipulation functions
+
+| Name | Jupyter Notebook |
+| --- | --- |
+| Pandas | [Pandas.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/2.%20Pandas/Pandas.ipynb) |
+
+##### C. Matplotlib and Seaborn - Various Visualization Functions
+
+| Name | Jupyter Notebook |
+| --- | --- |
+| Matplotlib & Seaborn | [Matplotlib and Seaborn.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/3.%20Matplotlib%20and%20Seaborn/Matplotlib%20and%20Seaborn.ipynb) |
+
+***
+
 **_Keep Checking for Updates_**
