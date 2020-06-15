@@ -98,7 +98,7 @@ You Might Data for Visualization. I have Used *[Cars.csv](https://github.com/pra
 | Pandas | [01. Pandas.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/01.%20Pandas.ipynb) |
 | Series, Data Frame sand CSV's | [02. Series, Data Frame sand CSV's.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/02.%20Series%2C%20Data%20Frames%20and%20CSV's.ipynb) |
 | Describe Data with Pandas | [03. Describe Data with Pandas.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/03.%20Describe%20Data%20with%20Pandas.ipynb) |
-| Selecting and Viewing Data | [Selecting and Viewing Data.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/04.%20Selecting%20and%20Viewing%20Data.ipynb) |
+| Selecting and Viewing Data | [04. Selecting and Viewing Data.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/04.%20Selecting%20and%20Viewing%20Data.ipynb) |
 | Manipulating Data | [05. Manipulating Data.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/05.%20Manipulating%20Data.ipynb) |
 
 ##### C. Matplotlib and Seaborn - Various Visualization Functions
