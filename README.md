@@ -85,11 +85,20 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 You Might Data for Visualization. I have Used *[Cars.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/Cars.csv)* and *[mba.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/mba.csv)*.
 
-##### A. Numpy - Basic Numeric functions
+##### A. NumPy - Basic Numeric functions
 
 | Name | Jupyter Notebook |
 | --- | --- |
-| Numpy | [Numpy.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/1.%20Numpy/Numpy.ipynb) |
+| NumPy | [01. Numpy.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/01.%20Numpy.ipynb) |
+| NumPy DataTypes and Attributes | [02. Numpy DataTypes and Attributes.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/02.%20Numpy%20DataTypes%20and%20Attributes.ipynb) |
+| Creating NumPy Arrays | [03. Creating NumPy Arrays.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/03.%20Creating%20NumPy%20Arrays.ipynb) |
+| NumPy Random Seeds | [04. NumPy Random Seeds.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/04.%20NumPy%20Random%20Seeds.ipynb) |
+| Viewing Arrays and Matrices | [05. Viewing Arrays and Matrices.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/05.%20Viewing%20Arrays%20and%20Matrices.ipynb) |
+| Manipulating Arrays | [06. Manipulating Arrays.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/06.%20manipulating%20Arrays.ipynb) |
+| Standard Deviation and variance | [07. Standard Deviation and Variance.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/07.%20Standard%20Deviation%20and%20Variance.ipynb) |
+| Reshape and Transpose | [08. Reshape and Transpose.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/08.%20Reshape%20and%20transpose.ipynb) |
+| Dot Product Vs Element Wise | [09. Dot Product Vs Element Wise.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/09.%20Dot%20Product%20Vs%20Element%20Wise.ipynb) |
+| Turning Images into NumPy Arrays | [10. Turning Images into NumPy Arrays.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/10.%20Turning%20Images%20into%20NumPy%20Arrays.ipynb) |
 
 ##### B. Pandas - Data Manipulation and Analysis
 
