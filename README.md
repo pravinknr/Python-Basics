@@ -51,7 +51,7 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- |
-| String and Datatype | [Datatypes.py](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.py) | [Datatypes.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.ipynb) |
+| String and Datatype | [.py](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.py) | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/1.String%20and%20Datatype%20Functions/Datatypes.ipynb) |
 
 ***
 
@@ -59,7 +59,7 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- |
-| Operators | [Operators.py](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.py) | [Operators.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.ipynb) |
+| Operators | [.py](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.py) | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/2.%20Operators/Operators.ipynb) |
 
 ***
 
@@ -67,8 +67,8 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- |
-| Conditional Statements | [Conditional Statements.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) | [Conditional Statements.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) |
-| Loop | [Loop.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loop.py) | [Loops.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loops.ipynb) |
+| Conditional Statements | [.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Conditional%20Statements.py) |
+| Loops | [.py](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loop.py) | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/3.%20Conditional%20Statements%20and%20Loops/Loops.ipynb) |
 
 
 ***
@@ -77,44 +77,48 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 | Name | Spyder | Jupyter Notebook|
 | --- | --- | --- |
-| Functions | [Functions.py](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.py) | [Functions.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.ipynb) |
+| Functions | [.py](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.py) | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/4.%20User%20Defined%20Functions/Functions.ipynb) |
 
 ***
 
 #### 5. Libraries
 
-You Might Data for Visualization. I have Used *[Cars.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/Cars.csv)* and *[mba.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/mba.csv)*.
+You Would need Data for Visualization. I have Used *[Cars.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/Cars.csv)*, *[mba.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/mba.csv)*, *[car-sales.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales.csv)*, *[car-sales-missing-data.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales-missing-data.csv)*, *[heart-disease.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/heart-disease.csv)* and *[panda.png](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/panda.png)*.
 
 ##### A. NumPy - Basic Numeric functions
 
 | Name | Jupyter Notebook |
 | --- | --- |
-| NumPy | [01. Numpy.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/01.%20Numpy.ipynb) |
-| NumPy DataTypes and Attributes | [02. Numpy DataTypes and Attributes.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/02.%20Numpy%20DataTypes%20and%20Attributes.ipynb) |
-| Creating NumPy Arrays | [03. Creating NumPy Arrays.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/03.%20Creating%20NumPy%20Arrays.ipynb) |
-| NumPy Random Seeds | [04. NumPy Random Seeds.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/04.%20NumPy%20Random%20Seeds.ipynb) |
-| Viewing Arrays and Matrices | [05. Viewing Arrays and Matrices.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/05.%20Viewing%20Arrays%20and%20Matrices.ipynb) |
-| Manipulating Arrays | [06. Manipulating Arrays.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/06.%20manipulating%20Arrays.ipynb) |
-| Standard Deviation and variance | [07. Standard Deviation and Variance.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/07.%20Standard%20Deviation%20and%20Variance.ipynb) |
-| Reshape and Transpose | [08. Reshape and Transpose.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/08.%20Reshape%20and%20transpose.ipynb) |
-| Dot Product Vs Element Wise | [09. Dot Product Vs Element Wise.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/09.%20Dot%20Product%20Vs%20Element%20Wise.ipynb) |
-| Turning Images into NumPy Arrays | [10. Turning Images into NumPy Arrays.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/10.%20Turning%20Images%20into%20NumPy%20Arrays.ipynb) |
+| 01. NumPy | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/01.%20Numpy.ipynb) |
+| 02. NumPy DataTypes and Attributes | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/02.%20Numpy%20DataTypes%20and%20Attributes.ipynb) |
+| 03. Creating NumPy Arrays | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/03.%20Creating%20NumPy%20Arrays.ipynb) |
+| 04. NumPy Random Seeds | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/04.%20NumPy%20Random%20Seeds.ipynb) |
+| 05. Viewing Arrays and Matrices | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/05.%20Viewing%20Arrays%20and%20Matrices.ipynb) |
+| 06. Manipulating Arrays | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/06.%20manipulating%20Arrays.ipynb) |
+| 07. Standard Deviation and variance | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/07.%20Standard%20Deviation%20and%20Variance.ipynb) |
+| 08. Reshape and Transpose | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/08.%20Reshape%20and%20transpose.ipynb) |
+| 09. Dot Product Vs Element Wise | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/09.%20Dot%20Product%20Vs%20Element%20Wise.ipynb) |
+| 10. Turning Images into NumPy Arrays | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/1.%20Numpy/10.%20Turning%20Images%20into%20NumPy%20Arrays.ipynb) |
 
 ##### B. Pandas - Data Manipulation and Analysis
 
 | Name | Jupyter Notebook |
 | --- | --- |
-| Pandas | [01. Pandas.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/01.%20Pandas.ipynb) |
-| Series, Data Frame sand CSV's | [02. Series, Data Frame sand CSV's.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/02.%20Series%2C%20Data%20Frames%20and%20CSV's.ipynb) |
-| Describe Data with Pandas | [03. Describe Data with Pandas.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/03.%20Describe%20Data%20with%20Pandas.ipynb) |
-| Selecting and Viewing Data | [04. Selecting and Viewing Data.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/04.%20Selecting%20and%20Viewing%20Data.ipynb) |
-| Manipulating Data | [05. Manipulating Data.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/05.%20Manipulating%20Data.ipynb) |
+| 01. Pandas | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/01.%20Pandas.ipynb) |
+| 02. Series, Data Frame sand CSV's | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/02.%20Series%2C%20Data%20Frames%20and%20CSV's.ipynb) |
+| 03. Describe Data with Pandas | [03. .ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/03.%20Describe%20Data%20with%20Pandas.ipynb) |
+| 04. Selecting and Viewing Data | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/04.%20Selecting%20and%20Viewing%20Data.ipynb) |
+| 05. Manipulating Data | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/2.%20Pandas/05.%20Manipulating%20Data.ipynb) |
 
 ##### C. Matplotlib and Seaborn - Various Visualization Functions
 
 | Name | Jupyter Notebook |
 | --- | --- |
-| Matplotlib & Seaborn | [Matplotlib and Seaborn.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/3.%20Matplotlib%20and%20Seaborn/Matplotlib%20and%20Seaborn.ipynb) |
+| 01. Matplotlib & Seaborn | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/01.%20Matplotlib%20and%20Seaborn.ipynb) |
+| 02. Importing and Using Matplotlib.ipynb | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/02.%20Importing%20and%20Using%20Matplotlib.ipynb) |
+| 03. Scatter Plot and Bar Plot | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/03.%20Scatter%20Plot%20and%20Bar%20Plot.ipynb) |
+| 04. Histogram and Subplots | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/04.%20Histogram%20and%20subplots.ipynb) |
+| 05. Plotting From Pandas DataFrame with Customization | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/05.%20Plotting%20from%20Pandas%20DataFrame%20with%20Customization.ipynb) |
 
 ***
 
