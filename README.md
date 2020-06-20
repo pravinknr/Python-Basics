@@ -120,6 +120,13 @@ You Would need Data for Visualization. I have Used *[Cars.csv](https://github.co
 | 04. Histogram and Subplots | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/04.%20Histogram%20and%20subplots.ipynb) |
 | 05. Plotting From Pandas DataFrame with Customization | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/3.%20Matplotlib%20and%20Seaborn/05.%20Plotting%20from%20Pandas%20DataFrame%20with%20Customization.ipynb) |
 
+##### D. Scikit-Learn(sklearn) - Various Machine Learning Algorithms
+
+| Name | Jupyter Notebook |
+| --- | --- |
+| 01. Introduction to Scikit-Learn | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/01.%20Introduction%20to%20Scikit-Learn.ipynb) |
+
+
 ***
 
 
