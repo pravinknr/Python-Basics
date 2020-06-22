@@ -83,7 +83,7 @@ Now the Python Notebook will Open and you can start your Coding part.
 
 #### 5. Libraries
 
-You Would need Data for Visualization. I have Used *[Cars.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/Cars.csv)*, *[mba.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/mba.csv)*, *[car-sales.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales.csv)*, *[car-sales-missing-data.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales-missing-data.csv)*, *[heart-disease.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/heart-disease.csv)* and *[panda.png](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/panda.png)*.
+You Would need Data for Visualization. I have Used *[Cars.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/Cars.csv)*, *[mba.csv](https://github.com/pravinknr/Python-Basics/blob/master/5.%20Libraries/mba.csv)*, *[car-sales.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales.csv)*, *[car-sales-missing-data.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales-missing-data.csv)*, *[car-sales-extended.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales-extended.csv)*, *[car-sales-extended-missing-data.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/car-sales-extended-missing-data.csv)*,*[heart-disease.csv](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/heart-disease.csv)* and *[panda.png](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/panda.png)*.
 
 ##### A. NumPy - Basic Numeric functions
 
@@ -125,6 +125,7 @@ You Would need Data for Visualization. I have Used *[Cars.csv](https://github.co
 | Name | Jupyter Notebook |
 | --- | --- |
 | 01. Introduction to Scikit-Learn | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/01.%20Introduction%20to%20Scikit-Learn.ipynb) |
+| 02. Getting Data Ready | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/02.%20Getting%20Data%20Ready.ipynb) |
 
 
 ***
