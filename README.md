@@ -123,7 +123,7 @@ You Would need Data for Visualization. I have Used *[Cars.csv](https://github.co
 ##### D. Scikit-Learn(sklearn) - Various Machine Learning Algorithms
 
 | Name | Jupyter Notebook |
-| |---| | --- |
+| --- | --- |
 | 01. Introduction to Scikit-Learn | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/01.%20Introduction%20to%20Scikit-Learn.ipynb) |
 | 02. Getting Data Ready | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/02.%20Getting%20Data%20Ready.ipynb) |
 | 03. Choosing the Rght Estimator-Algorithm for Our Problem | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/03.%20Choosing%20the%20right%20Estimator-Algorithm%20for%20Our%20Problem.ipynb) |
