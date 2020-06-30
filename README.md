@@ -123,13 +123,13 @@ You Would need Data for Visualization. I have Used *[Cars.csv](https://github.co
 ##### D. Scikit-Learn(sklearn) - Various Machine Learning Algorithms
 
 | Name | Jupyter Notebook |
-| --- | --- |
+| |---| | --- |
 | 01. Introduction to Scikit-Learn | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/01.%20Introduction%20to%20Scikit-Learn.ipynb) |
 | 02. Getting Data Ready | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/02.%20Getting%20Data%20Ready.ipynb) |
 | 03. Choosing the Rght Estimator-Algorithm for Our Problem | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/03.%20Choosing%20the%20right%20Estimator-Algorithm%20for%20Our%20Problem.ipynb) |
 | 04. Fitting a Model to the Data | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/04.%20Fitting%20a%20Model%20to%20the%20Data.ipynb) |
 | 05. Evaluating a Machine Learning Model | [ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/05.%20Evaluating%20a%20Machine%20Learning%20Model.ipynb) |
-
+| 06. Improving a Machine Learning Model | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/06.%20Improving%20a%20Machine%20Learning%20Model.ipynb) |
 
 ***
 
