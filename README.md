@@ -130,6 +130,9 @@ You Would need Data for Visualization. I have Used *[Cars.csv](https://github.co
 | 04. Fitting a Model to the Data | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/04.%20Fitting%20a%20Model%20to%20the%20Data.ipynb) |
 | 05. Evaluating a Machine Learning Model | [ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/05.%20Evaluating%20a%20Machine%20Learning%20Model.ipynb) |
 | 06. Improving a Machine Learning Model | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/06.%20Improving%20a%20Machine%20Learning%20Model.ipynb) |
+| 07. Save and Load a Trained Model | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/07.%20Save%20and%20Load%20a%20Trained%20Model.ipynb) |
+| 08. Putting it all Together | [.ipynb](https://github.com/pravinknr/Python-Basics/blob/master/05.%20Libraries/4.%20Scikit-Learn/08.%20Putting%20it%20all%20Together.ipynb) |
+
 
 ***
 
